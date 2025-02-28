@@ -7,6 +7,8 @@ Hello readers I'm Cozy or you can also call me red!
 I usually use this for ponytown the most, but you can also check out my links if you wanna know where I'm more active on.
 
 
+*C+H IS HEAVILY ENCOURAGED! PLEASE SIT AROUND WITH ME W/ AND W/O THE C+H IN MY NAME!*
+
 
 
 below 15 and above 18 iwvec 
