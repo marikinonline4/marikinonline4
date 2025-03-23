@@ -12,6 +12,8 @@ I clean out followers sometimes, I'll hunt down your github to refollow!
 
 [sign atabook](https://spireofshadows.atabook.org)
 
+[sign strawpage](https://00707.straw.page)
+
 
 
 
