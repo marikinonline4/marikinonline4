@@ -11,6 +11,8 @@ Those that have C+H, I will be there by your side!
 
 I clean out followers sometimes, I'll hunt down your github to refollow!
 
+[art account](https://www.instagram.com/redngone/)
+
 [2nd github](https://github.com/trappedice)
 
 [sign atabook](https://spireofshadows.atabook.org)
