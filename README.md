@@ -6,6 +6,7 @@
 
 Pimp elliot: bitches love me bitches love me bitches love me
 
+I overthink A LOT, so please whisper me if you want me to move or so cause I'd be PANICKING in my head.
 
 Those that have C+H, I will be there by your side!
 
