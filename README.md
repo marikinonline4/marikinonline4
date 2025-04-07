@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7380C&width=435&lines=HE+WAS+A+FRIEND%2C+WELL...+NOT+ANYMORE+I+GUESS.)](https://git.io/typing-svg)
 
-Pimp elliot: bitches love me bitches love me bitches love me
-
-I overthink A LOT, so please whisper me if you want me to move or so cause I'd be PANICKING in my head.
+15 turning 16 (07/30)
 
 Those that have C+H, I will be there by your side!
 
