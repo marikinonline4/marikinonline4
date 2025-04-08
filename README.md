@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7380C&width=435&lines=HE+WAS+A+FRIEND%2C+WELL...+NOT+ANYMORE+I+GUESS.)](https://git.io/typing-svg)
 
+Don't bring me into ship wars or arguments, I'd die bruh
+
 15 turning 16 (07/30)
 
 Those that have C+H, I will be there by your side!
