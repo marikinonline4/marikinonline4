@@ -14,6 +14,8 @@ I clean out followers sometimes, I'll hunt down your github to refollow!
 
 [art account](https://www.instagram.com/redngone/)
 
+[art gallery](https://magma.com/artist/reddisk/gallery)
+
 [2nd github](https://github.com/trappedice)
 
 [sign atabook](https://spireofshadows.atabook.org)
