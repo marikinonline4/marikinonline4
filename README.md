@@ -10,11 +10,14 @@ Don't bring me into ship wars or arguments, I'd die bruh
 
 Those that have C+H, I will be there by your side!
 
-I clean out followers sometimes, I'll hunt down your github to refollow!
+
+If you want to look at my art :
 
 [art account](https://www.instagram.com/redngone/)
 
 [art gallery](https://magma.com/artist/reddisk/gallery)
+
+other:
 
 [2nd github](https://github.com/trappedice)
 
