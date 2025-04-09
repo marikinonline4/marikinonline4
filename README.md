@@ -23,7 +23,7 @@ other:
 
 [sign strawpage](https://00707.straw.page)
 
-[rentry is still reworked](https://rentry.co/online404)
+
 
 
 
