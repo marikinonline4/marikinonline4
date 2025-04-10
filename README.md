@@ -1,12 +1,16 @@
 <h5 align="center"
 
-![image](https://github.com/user-attachments/assets/63fe3dc3-4197-43aa-b65b-33637eeab582)
+PV SERVER - BassGuitarShop
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7380C&width=435&lines=HE+WAS+A+FRIEND%2C+WELL...+NOT+ANYMORE+I+GUESS.)](https://git.io/typing-svg)
+![image](https://github.com/user-attachments/assets/b0a80e14-8a6c-40bd-8052-e5446b1768bc)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F7E2AF&center=true&vCenter=true&width=435&lines=LET+ME+BE+YOUR...+FRIEND.)](https://git.io/typing-svg)
+
+
 
 I don't care about shipping, just don't be weird abt it
 
-15 turning 16 (07/30)
 
 
 If you want to look at my art :
