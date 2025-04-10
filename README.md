@@ -1,5 +1,7 @@
 <h5 align="center"
 
+[pfp credits](https://ph.pinterest.com/yashy2006/)
+
 PV SERVER - BassGuitarShop
 
 ![image](https://github.com/user-attachments/assets/b0a80e14-8a6c-40bd-8052-e5446b1768bc)
