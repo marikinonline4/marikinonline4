@@ -22,7 +22,7 @@ If you want to look at my art :
 
 other:
 
-[2nd github](https://github.com/trappedice)
+[spam following](https://github.com/sproutedcake)
 
 [sign atabook](https://spireofshadows.atabook.org)
 
