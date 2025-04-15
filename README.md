@@ -10,7 +10,7 @@ PV SERVER - BassGuitarShop
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F7E2AF&center=true&vCenter=true&width=435&lines=LET+ME+BE+YOUR...+FRIEND.)](https://git.io/typing-svg)
 
 
-heavily sv / nv, w2i to int
+heavily sv / nv, whisper to int
 
 I don't care about shipping, just don't be weird abt it
 
