@@ -24,7 +24,7 @@ If you want to look at my art :
 
 other:
 
-[spam following](https://github.com/sproutedcake)
+[spam following](https://github.com/1x1x1x1x1x1x1x1x1x1x1x1x1x1)
 
 [sign atabook](https://spireofshadows.atabook.org)
 
