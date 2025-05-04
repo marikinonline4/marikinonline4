@@ -1,26 +1,21 @@
 <h5 align="center"
 
-[pfp credits](https://ph.pinterest.com/yashy2006/)
 
-PV SERVER - BassGuitarShop
-
-![image](https://github.com/user-attachments/assets/b0a80e14-8a6c-40bd-8052-e5446b1768bc)
+![image](https://github.com/user-attachments/assets/c632a7f3-8d79-4996-b24b-a2abc8dad79c)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&color=F7E2AF&center=true&vCenter=true&width=435&lines=LET+ME+BE+YOUR...+FRIEND.)](https://git.io/typing-svg)
 
 
 heavily sv / nv, whisper to int
 
 I don't care about shipping, just don't be weird abt it
 
+![image](https://github.com/user-attachments/assets/3d987ba6-7ae1-47be-8561-282d244ecdfe)
 
 
-If you want to look at my art :
+socials:
 
-[art account](https://www.instagram.com/redngone/)
-
-[art gallery](https://magma.com/artist/reddisk/gallery)
+[linktree](https://linktr.ee/gpoke)
 
 other:
 
@@ -31,7 +26,8 @@ other:
 [sign strawpage](https://00707.straw.page)
 
 
-![image](https://github.com/user-attachments/assets/34b9962d-e2ae-495b-97ea-47eb04e55d8c)
+![image](https://github.com/user-attachments/assets/51e4c34f-20a8-43e2-ac0c-c91d5dfb0c0d)
+
 
 
 
