@@ -10,6 +10,8 @@ heavily sv / nv, whisper to int
 
 I don't care about shipping, just don't be weird abt it
 
+![image](https://github.com/user-attachments/assets/adc5ea27-c631-4cf4-9b56-cb7a98193e06)
+
 
 socials:
 
