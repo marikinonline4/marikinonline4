@@ -20,7 +20,13 @@
 
 𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "
 
-![image](https://github.com/user-attachments/assets/adc5ea27-c631-4cf4-9b56-cb7a98193e06)
+![image](https://github.com/user-attachments/assets/483c42eb-f417-4860-bfe7-f99be90181df)
+
+<sub> If I was really a god, then I am the most incompotent god in the world.
+
+<sub> The most helpless god in the world who knew everything but couldn't explain anything.
+
+
 
 
 ‎【 STATS 】
