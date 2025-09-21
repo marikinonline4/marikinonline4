@@ -20,11 +20,11 @@
 
 𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "
 
-![image](https://github.com/user-attachments/assets/483c42eb-f417-4860-bfe7-f99be90181df)
+<img width="706" height="227" alt="image" src="https://github.com/user-attachments/assets/f83a9c7f-e248-4ff0-8009-8a1774a20669" />
 
-<sub> If I was really a god, then I am the most incompotent god in the world.
+<sub> If two people share one, their destinies become intertwined.
 
-<sub> The most helpless god in the world who knew everything but couldn't explain anything.
+<sub> They'll remain a part of each other's lives no matter what. C'mon, I know you want to try it.
 
 
 
