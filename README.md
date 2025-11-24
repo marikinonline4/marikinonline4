@@ -24,7 +24,7 @@
 
 [spam following](https://github.com/1x1x1x1x1x1x1x1x1x1x1x1x1x1)
 
-[sign atabook](https://spireofshadows.atabook.org)
+[sign atabook](https://kinginyellow.atabook.org)
 
 [sign strawpage](https://00707.straw.page)
 
