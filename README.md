@@ -12,7 +12,7 @@
 
 <img width="688" height="232" alt="image" src="https://github.com/user-attachments/assets/a06d6334-5047-489f-93bd-be116e5ff250" />
 
-
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=84DCCD&style=flat-square&label=puzzles&abbreviated=true)
 
 
 
