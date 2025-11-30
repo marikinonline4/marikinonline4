@@ -26,7 +26,7 @@
 
 [sign atabook](https://kinginyellow.atabook.org)
 
-[strawpage rmk soon]
+
 
 
 
