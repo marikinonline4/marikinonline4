@@ -22,7 +22,7 @@
 
 ‎【 SIDE LOG 】
 
-[spam following](https://github.com/1x1x1x1x1x1x1x1x1x1x1x1x1x1)
+[spam following](https://github.com/lovesake)
 
 [sign atabook](https://kinginyellow.atabook.org)
 
