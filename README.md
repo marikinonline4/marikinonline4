@@ -23,9 +23,11 @@
 
 [linktree](https://linktr.ee/gpoke)
 
+[spam following](https://github.com/lovesake)
+
 ‎【 SIDE LOG 】
 
-[spam following](https://github.com/lovesake)
+
 
 [sign atabook](https://kinginyellow.atabook.org)
 
