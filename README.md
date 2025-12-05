@@ -29,7 +29,7 @@
 
 [sign atabook](https://kinginyellow.atabook.org)
 
-[sign reveospring](https://revospring.net/@marikin)
+[sign revospring](https://revospring.net/@marikin)
 
 [color my tree](https://colormytree.me/2025/01JEJKGFXPRV6X29WC1XQ672EP)
 
