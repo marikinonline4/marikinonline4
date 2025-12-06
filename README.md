@@ -1,20 +1,11 @@
-<h5 align="center"
+
+ <h5 align="center">${\textsf{\color{teal} 𝄖 " 𝘐 𝘋𝘖𝘕'𝘛 𝘊𝘈𝘙𝘌 𝘈𝘉𝘖𝘜𝘛 𝘚𝘏𝘐𝘗𝘗𝘐𝘕𝘎. "}}$<br>
+<h5 align="center">${\textsf{\color{teal} 𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "}}$<br>
 
 
 
 
-
-
-
-𝄖 " 𝘐 𝘋𝘖𝘕'𝘛 𝘊𝘈𝘙𝘌 𝘈𝘉𝘖𝘜𝘛 𝘚𝘏𝘐𝘗𝘗𝘐𝘕𝘎. "
-
-<h5 align="center"
-  
-𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "
-
-
-
-<img width="688" height="232" alt="image" src="https://github.com/user-attachments/assets/a06d6334-5047-489f-93bd-be116e5ff250" />
+<h5 align="center"><img width="688" height="232" alt="image" src="https://github.com/user-attachments/assets/a06d6334-5047-489f-93bd-be116e5ff250" />
 
 <h5 align="center"
 
