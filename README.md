@@ -1,25 +1,26 @@
 
- <h5 align="center">${\textsf{\color{teal} 𝄖 " 𝘐 𝘋𝘖𝘕'𝘛 𝘊𝘈𝘙𝘌 𝘈𝘉𝘖𝘜𝘛 𝘚𝘏𝘐𝘗𝘗𝘐𝘕𝘎. "}}$<br>
-<h5 align="center">${\textsf{\color{teal} 𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "}}$<br>
+ <h5 align="center">${\textsf{\color{red} 𝄖 " 𝘐 𝘋𝘖𝘕'𝘛 𝘊𝘈𝘙𝘌 𝘈𝘉𝘖𝘜𝘛 𝘚𝘏𝘐𝘗𝘗𝘐𝘕𝘎. "}}$<br>
+<h5 align="center">${\textsf{\color{white} 𝄖 " 𝘑𝘜𝘚𝘛 𝘉𝘌 𝘕𝘖𝘙𝘔𝘈𝘓 𝘈𝘕𝘋 𝘕𝘖𝘛 𝘞𝘌𝘐𝘙𝘋. "}}$<br>
 
 
 
 
-<h5 align="center"><img width="688" height="232" alt="image" src="https://github.com/user-attachments/assets/a06d6334-5047-489f-93bd-be116e5ff250" />
+<img width="980" height="383" alt="image" src="https://github.com/user-attachments/assets/fdf8acac-8e89-453e-b1a9-37012247ca73" />
+
 
 <h5 align="center"
 
-  ${\textsf{\color{lightblue} red ; mapicc ; marikin}}$<br>
-  ${\textsf{\color{lightblue} en/filo}}$<br>
+  ${\textsf{\color{red} red ; mapicc ; marikin}}$<br>
+  ${\textsf{\color{red} en/filo}}$<br>
 
   <h5 align="center"
 
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=84DCCD&style=flat-square&label=沙&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=F4320B&style=flat-square&label=沙&abbreviated=true)
 
 <h5 align="center"
   
-  ${\textsf{\color{lightblue} I'm very awkward at first if you sit with me,}}$<br>
-  ${\textsf{\color{lightblue} I'll sign your ata if I'm too much of a wuss to talk, or compliment you.}}$<br>
+  ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
+  ${\textsf{\color{red} I'll sign your ata if I'm too much of a wuss to talk, or compliment you.}}$<br>
 
 
 
