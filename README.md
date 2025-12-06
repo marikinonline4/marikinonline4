@@ -36,13 +36,13 @@
 
 <h5 align="center"
 
-‎【 STATS 】
+‎【 🎄 STATUS 🎄 】
 
 [linktree](https://linktr.ee/gpoke)
 
 [spam following](https://github.com/lovesake)
 
-‎【 SIDE LOG 】
+‎【 🎄 SIDE LOG 🎄 】
 
 
 
