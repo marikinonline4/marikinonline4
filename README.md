@@ -5,8 +5,8 @@
 
   <h5 align="center">
   ${\textsf{\color{green} I'm very awkward at first if you sit with me,}}$<br>
-  ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk,}}$<br>
-    ${\textsf{\color{green} or trying to compliment you.}}$<br>
+  ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk...}}$<br>
+
 
 
   <h5 align="center">
