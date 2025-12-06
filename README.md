@@ -27,8 +27,8 @@
 
 <h5 align="center"
   
-  ${\textsf{\color{teal} I'm very awkward at first if you sit with me,}}$<br>
-  ${\textsf{\color{teal} I'll sign your ata if I'm too much of a wuss to talk.}}$<br>
+  ${\textsf{\color{lightblue} I'm very awkward at first if you sit with me,}}$<br>
+  ${\textsf{\color{lightblue} I'll sign your ata if I'm too much of a wuss to talk.}}$<br>
 
 
 
