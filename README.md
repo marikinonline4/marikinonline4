@@ -4,7 +4,7 @@
 <img width="240" height="108" alt="image" src="https://github.com/user-attachments/assets/fdf8acac-8e89-453e-b1a9-37012247ca73" />
 
   <h5 align="center">
-  ${\textsf{\color{green} I'm very awkward at first if you sit with me,}}$<br>
+  ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
   ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk...}}$<br>
 
 
