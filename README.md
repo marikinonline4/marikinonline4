@@ -24,7 +24,7 @@
   ${\textsf{\color{red} 【 red ; marikin 】}}$<br>
   ${\textsf{\color{green} 【 en/filo ; lvl16 】}}$<br>
     ${\textsf{\color{red} 【 aromantic ; trans 】}}$<br>
-
+  ${\textsf{\color{green} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
 
 
   <h5 align="center"
