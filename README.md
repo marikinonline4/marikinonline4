@@ -7,6 +7,9 @@
   ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
   ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk...}}$<br>
 
+  <h5 align="center">
+   ${\textsf{\color{red} I follow back when asked, if they follow first, or if I see you as an oomf.}}$<br>
+
 
 
   <h5 align="center">
