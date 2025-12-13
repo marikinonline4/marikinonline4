@@ -28,7 +28,7 @@
   ${\textsf{\color{white} 【 en/filo ; lvl16 】}}$<br>
     ${\textsf{\color{red} 【 aromantic ; trans 】}}$<br>
   ${\textsf{\color{green} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
-
+    ${\textsf{\color{red} 【 I appreciate cuddle piles. 】}}$<br>
 
   <h5 align="center"
 
