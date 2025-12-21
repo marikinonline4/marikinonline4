@@ -32,7 +32,7 @@
 
   <h5 align="center"
 
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=F4320B&style=flat-square&label=沙&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=F4320B&style=flat-square&label=沙)
 
 
 
