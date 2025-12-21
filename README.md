@@ -6,11 +6,12 @@
   <h5 align="center">
   ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
   ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk...}}$<br>
-    ${\textsf{\color{red} Though, I'm free to interact with or whisper to. ^^}}$<br>
+    ${\textsf{\color{red} Though, I'm free to interact with or whisper to. }}$<br>
 
 
   <h5 align="center">
    ${\textsf{\color{green} I follow back when asked, if they follow first, or if I see you as an oomf.}}$<br>
+   ${\textsf{\color{red} Any fandoms I'm in.. lets be moots !}}$<br>
 
 
 
