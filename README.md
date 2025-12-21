@@ -47,7 +47,7 @@
 
 [linktree](https://linktr.ee/gpoke)
 
-[spam following](https://github.com/lovesake)
+[spam following](https://github.com/heavy-iron)
 
 ‎【 🎄 SIDE LOG 🎄 】
 
