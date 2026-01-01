@@ -10,8 +10,7 @@
 
 
   <h5 align="center">
-   ${\textsf{\color{green} I follow back when asked, if they follow first, or if I see(declare) you as an oomf.}}$<br>
-   ${\textsf{\color{red} Any fandoms I'm in.. lets be moots !}}$<br>
+    ${\textsf{\color{red} Any fandoms I'm in.. lets be moots !}}$<br>
 
 
 
