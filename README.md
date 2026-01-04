@@ -3,6 +3,12 @@
 
 <img width="240" height="108" alt="image" src="https://github.com/user-attachments/assets/fdf8acac-8e89-453e-b1a9-37012247ca73" />
 
+<h5 align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=true">
+  </a>
+</p>
+
   <h5 align="center">
   ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
     ${\textsf{\color{green} Though, I'm free to interact with or whisper to. }}$<br>
