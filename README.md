@@ -32,7 +32,7 @@
 <h5 align="center"
 
   ${\textsf{\color{white} 【 red ; cozyshot ; marikin 】}}$<br>
-  ${\textsf{\color{white} 【 en/filo ; lvl16 】}}$<br>
+  ${\textsf{\color{white} 【 en/filo ; lvl16-17 】}}$<br>
       ${\textsf{\color{white} 【 aromantic questioning ; trans 】}}$<br>
 
   <h5 align="center"
