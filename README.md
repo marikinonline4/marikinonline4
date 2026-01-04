@@ -5,8 +5,7 @@
 
   <h5 align="center">
   ${\textsf{\color{red} I'm very awkward at first if you sit with me,}}$<br>
-  ${\textsf{\color{green} I'll sign your ata if I'm too much of a wuss to talk...}}$<br>
-    ${\textsf{\color{red} Though, I'm free to interact with or whisper to. }}$<br>
+    ${\textsf{\color{green} Though, I'm free to interact with or whisper to. }}$<br>
 
 
   <h5 align="center">
@@ -28,9 +27,12 @@
 
   ${\textsf{\color{white} 【 red ; cozyshot ; marikin 】}}$<br>
   ${\textsf{\color{white} 【 en/filo ; lvl16 】}}$<br>
-    ${\textsf{\color{red} 【 aromantic ; trans 】}}$<br>
+      ${\textsf{\color{white} 【 aromantic questioning ; trans 】}}$<br>
+
+  <h5 align="center"
+    
   ${\textsf{\color{green} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
-    ${\textsf{\color{red} 【 I appreciate cuddle piles. 】}}$<br>
+    ${\textsf{\color{red} 【 I appreciate cuddle piles. Unless I'm with moots. 】}}$<br>
 
   <h5 align="center"
 
@@ -42,13 +44,13 @@
 
 <h5 align="center"
 
-‎【 🎄 STATUS 🎄 】
+‎【  STATUS  】
 
 [linktree](https://linktr.ee/gpoke)
 
 [spam following](https://github.com/heavy-iron)
 
-‎【 🎄 SIDE LOG 🎄 】
+‎【  SIDE LOG  】
 
 
 
