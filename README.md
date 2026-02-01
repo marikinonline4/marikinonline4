@@ -8,15 +8,6 @@
   </a>
 </p>
 
-  <h5 align="center">
-  ${\textsf{\color{maroon} I'm very awkward at first if you sit with me,}}$<br>
-    ${\textsf{\color{maroon} Though, I'm free to interact with or whisper to. }}$<br>
-
-
-  <h5 align="center">
-    ${\textsf{\color{maroon} Any fandoms I'm in.. lets be moots !}}$<br>
-
-
 
   <h5 align="center">
 
