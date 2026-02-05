@@ -1,12 +1,6 @@
 
-  <h5 align="center">
 
 
-<h5 align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&cover_image=false&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=ffffff&bar_color_cover=true">
-  </a>
-</p>
 
 
   <h5 align="center">
