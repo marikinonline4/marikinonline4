@@ -15,14 +15,15 @@
 
 <h5 align="center"
 
-   ${\textsf{\color{maroon} 【 red ; cozyshot ; marikin 】}}$<br>
-    ${\textsf{\color{maroon} 【 en/filo ; lvl16-17 】}}$<br>
+   ${\textsf{\color{pink} 【 red ; cozyshot ; marikin 】}}$<br>
+    ${\textsf{\color{red} 【 en/filo ; lvl16-17 】}}$<br>
       ${\textsf{\color{maroon} 【 aromantic questioning ; trans 】}}$<br>
 
   <h5 align="center"
-    
-  ${\textsf{\color{maroon} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
-      ${\textsf{\color{maroon} 【 I appreciate cuddle piles. Unless I'm with moots. 】}}$<br>
+
+  ${\textsf{\color{maroon}【 Currently making a regiment... 】}}$<br>
+  ${\textsf{\color{red} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
+      ${\textsf{\color{pink} 【 I appreciate cuddle piles. Unless I'm with moots. 】}}$<br>
 
   <h5 align="center"
 
