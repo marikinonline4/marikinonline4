@@ -17,7 +17,7 @@
 
    ${\textsf{\color{pink} 【 red ; cozyshot ; marikin 】}}$<br>
     ${\textsf{\color{red} 【 en/filo ; lvl16-17 】}}$<br>
-      ${\textsf{\color{maroon} 【 aromantic questioning ; trans 】}}$<br>
+      ${\textsf{\color{maroon} 【 lovingly taken  ; trans 】}}$<br>
 
   <h5 align="center"
 
