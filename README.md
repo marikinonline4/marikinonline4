@@ -23,7 +23,7 @@
 
   ${\textsf{\color{maroon}【 Currently making a regiment... 】}}$<br>
   ${\textsf{\color{maroon} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
-      ${\textsf{\color{maroon} 【 I appreciate cuddle piles. Unless I'm with moots. 】}}$<br>
+      ${\textsf{\color{maroon} 【 I appreciate cuddle piles. Unless I'm with oomfs. 】}}$<br>
 
   <h5 align="center"
 
