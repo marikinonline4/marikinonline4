@@ -4,11 +4,6 @@
 
 
   <h5 align="center">
-
-
-  
-  
-  
 <img width="139" height="169" alt="image" src="https://github.com/user-attachments/assets/fc07c4be-2cc3-4364-91e4-b41a357f500e" />
 
 
@@ -16,7 +11,7 @@
 <h5 align="center"
 
    ${\textsf{\color{maroon} 【 red ; cozyshot ; marikin 】}}$<br>
-    ${\textsf{\color{maroon} 【 en/filo ; lvl16-17 】}}$<br>
+    ${\textsf{\color{maroon} 【 en/filo ; 17 】}}$<br>
       ${\textsf{\color{maroon} 【 lovingly taken  ; trans 】}}$<br>
 
   <h5 align="center"
