@@ -21,7 +21,7 @@
 
   <h5 align="center"
 
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=FFFFFF&style=flat-square&label=沙)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=edc12f&style=flat-square&label=沙)
 
 
 
