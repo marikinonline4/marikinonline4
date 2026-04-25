@@ -4,7 +4,6 @@
 
 
   <h5 align="center">
-<img width="139" height="169" alt="image" src="https://github.com/user-attachments/assets/fc07c4be-2cc3-4364-91e4-b41a357f500e" />
 
 
 
