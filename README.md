@@ -9,9 +9,9 @@
 
 <h5 align="center"
 
-   ${\textsf{\color{maroon} 【 red ; cozyshot ; marikin 】}}$<br>
-    ${\textsf{\color{maroon} 【 en/filo ; 17 】}}$<br>
-      ${\textsf{\color{maroon} 【 lovingly taken  ; trans 】}}$<br>
+   ${\textsf{\color{yellow} 【 red ; cozyshot ; marikin 】}}$<br>
+    ${\textsf{\color{yellow} 【 en/filo ; 17 】}}$<br>
+      ${\textsf{\color{yellow} 【 lovingly taken  ; trans 】}}$<br>
 
   <h5 align="center"
 
