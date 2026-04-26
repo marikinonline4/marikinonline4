@@ -9,7 +9,7 @@
 
 <h5 align="center"
 
-   ${\textsf{\color{yellow} 【 red ; cozyshot ; marikin ; Lord3 】}}$<br>
+   ${\textsf{\color{yellow} 【 Red ; Cozyshot ; Marikin ; Lord3 】}}$<br>
     ${\textsf{\color{yellow} 【 en/filo ; 17 】}}$<br>
       ${\textsf{\color{yellow} 【 lovingly taken  ; trans 】}}$<br>
 
