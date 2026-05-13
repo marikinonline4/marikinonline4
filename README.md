@@ -9,15 +9,15 @@
 
 <h5 align="center"
 
-   ${\textsf{\color{yellow} 【 Red ; Cozyshot ; Marikin ; Lord3 】}}$<br>
+   ${\textsf{\color{yellow} 【 Red ; Cozyshot ; Marikin ; TheLord 】}}$<br>
     ${\textsf{\color{yellow} 【 en/filo ; 17 】}}$<br>
-      ${\textsf{\color{yellow} 【 lovingly taken  ; trans 】}}$<br>
+      ${\textsf{\color{yellow} 【 he/they  ; trans 】}}$<br>
 
   <h5 align="center"
 
-  ${\textsf{\color{maroon}【 Currently making a regiment... 】}}$<br>
-  ${\textsf{\color{maroon} 【 feel free to call me by the name of the character I'm as. 】}}$<br>
-      ${\textsf{\color{maroon} 【 I appreciate cuddle piles. Unless I'm with oomfs. 】}}$<br>
+  ${\textsf{\color{orange}【 Running fan of MO4 since 2022 】}}$<br>
+  ${\textsf{\color{orange} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
+      ${\textsf{\color{orange} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
 
   <h5 align="center"
 
