@@ -9,15 +9,15 @@
 
 <h5 align="center"
 
-   ${\textsf{\color{darkblue} 【 Red ; Cozyshot ; Marikin ; TheLord 】}}$<br>
-    ${\textsf{\color{darkblue} 【 en/filo ; 17 】}}$<br>
-      ${\textsf{\color{darkblue} 【 he/they  ; trans 】}}$<br>
+   ${\textsf{\color{orange} 【 Red ; Cozyshot ; Marikin ; TheLord 】}}$<br>
+    ${\textsf{\color{orange} 【 en/filo ; 17 】}}$<br>
+      ${\textsf{\color{orange} 【 he/they  ; trans 】}}$<br>
 
   <h5 align="center"
 
-  ${\textsf{\color{darkblue}【 Running fan of MO4 since 2022 】}}$<br>
-  ${\textsf{\color{darkblue} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
-      ${\textsf{\color{darkblue} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
+  ${\textsf{\color{orange}【 Running fan of MO4 since 2022 】}}$<br>
+  ${\textsf{\color{orange} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
+      ${\textsf{\color{orange} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
 
   <h5 align="center"
 
