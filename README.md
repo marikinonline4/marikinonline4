@@ -10,7 +10,7 @@
 <h5 align="center"
 
 ${\textsf{\color{yellow} 【 You can refer to me as: 】}}$<br>
-   ${\textsf{\color{orange} 【 Red ; Cozyshot ; Marikin ; TheLord 】}}$<br>
+   ${\textsf{\color{orange} 【 Cozy ; Pure  】}}$<br>
 ${\textsf{\color{yellow} 【 en/filo ; 17 】}}$<br>
       ${\textsf{\color{orange} 【 he/they  ; trans 】}}$<br>
 
