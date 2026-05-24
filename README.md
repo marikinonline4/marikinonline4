@@ -9,20 +9,20 @@
 
 <h5 align="center"
 
-${\textsf{\color{yellow} 【 You can refer to me as: 】}}$<br>
-   ${\textsf{\color{orange} 【 Cozy ; Pure  】}}$<br>
-${\textsf{\color{yellow} 【 en/filo ; 17 】}}$<br>
-      ${\textsf{\color{orange} 【 he/they  ; trans 】}}$<br>
+${\textsf{\color{gray} 【 You can refer to me as: 】}}$<br>
+   ${\textsf{\color{gray} 【 Cozy ; Silver  】}}$<br>
+${\textsf{\color{gray} 【 en/filo ; 17 】}}$<br>
+      ${\textsf{\color{gray} 【 he/they  ; trans 】}}$<br>
 
   <h5 align="center"
 
-  ${\textsf{\color{orange}【 Running fan of MO4 since 2022 】}}$<br>
-  ${\textsf{\color{yellow} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
-      ${\textsf{\color{orange} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
+  ${\textsf{\color{gray}【 Running fan of MO4 since 2022 】}}$<br>
+  ${\textsf{\color{gray} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
+      ${\textsf{\color{gray} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
 
   <h5 align="center"
 
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=edc12f&style=flat-square&label=沙)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=4C5756&style=flat-square&label=沙)
 
 
 
