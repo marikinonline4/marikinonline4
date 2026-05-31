@@ -1,28 +1,16 @@
+<img width="442" height="150" alt="image" src="https://github.com/user-attachments/assets/804554eb-45a8-42a0-937a-dd05ab05d809" />
+
+
+<p align="right">
+${\textsf{\color{#01030A} Will}}$ ${\textsf{\color{#000929}you}}$ ${\textsf{\color{#00145E}still}}$ ${\textsf{\color{#E6D855}love}}$ ${\textsf{\color{#FF2929}me}}$ ${\textsf{\color{#001973}when}}$ ${\textsf{\color{#001F96}I'm}}$ ${\textsf{\color{#0026B5}no}}$ ${\textsf{\color{#022FD9}longer}}$ ${\textsf{\color{#009AFF}beautiful}}$ ${\textsf{\color{#ffe592}?}}$
+</p>
 
 
 
-
-
-  <h5 align="center">
-
-
-
-<h5 align="center"
-
-${\textsf{\color{gray} 【 You can refer to me as: 】}}$<br>
-   ${\textsf{\color{gray} 【 Cozy ; Silver  】}}$<br>
-${\textsf{\color{gray} 【 en/filo ; 17 】}}$<br>
-      ${\textsf{\color{gray} 【 he/they  ; trans 】}}$<br>
 
   <h5 align="center"
 
-  ${\textsf{\color{gray}【 Running fan of MO4 since 2022 】}}$<br>
-  ${\textsf{\color{gray} 【 Found around MCYT, Near Bakery, or Docks. 】}}$<br>
-      ${\textsf{\color{gray} 【 I appreciate cuddle piles. Unless I'm with oomfs, or my bf. 】}}$<br>
-
-  <h5 align="center"
-
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=4C5756&style=flat-square&label=沙)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=000036&style=flat-square&label=沙)
 
 
 
@@ -36,13 +24,8 @@ ${\textsf{\color{gray} 【 en/filo ; 17 】}}$<br>
 
 [spam following](https://github.com/cozyfies)
 
-‎【  SIDE LOG  】
-
-
-
 [sign atabook](https://kinginyellow.atabook.org)
 
-[color my tree](https://colormytree.me/2025/01JEJKGFXPRV6X29WC1XQ672EP)
 
 
 
