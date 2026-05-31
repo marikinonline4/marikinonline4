@@ -1,7 +1,6 @@
 <img width="450" height="205" alt="image" src="https://github.com/user-attachments/assets/c9dc93e3-df74-44d6-aabf-5abbe21e2685" align="left"/>
 
 
-<h5 align="right"
 
 
 <table>
@@ -20,14 +19,18 @@ ${\textsf{\color{#01030A} Will}}$ ${\textsf{\color{#000929}you}}$ ${\textsf{\col
 <h5 align="right"
 
 
-‎【  STATUS  】
+${\textsf{\color{#0866BF} ⋆˚꩜｡}}$ [linktree](https://linktr.ee/gpoke)
 
-[linktree](https://linktr.ee/gpoke)
+<h5 align="right"
+    
+${\textsf{\color{#0012B3} ⋆‧°𓏲ּ𝄢}}$ [spamfollow](https://github.com/cozyfies)
 
-[spam following](https://github.com/cozyfies)
+<h5 align="right"
+    
+${\textsf{\color{#000C7A} — ᨳଓ .}}$ [atabook](https://kinginyellow.atabook.org)
 
-[sign atabook](https://kinginyellow.atabook.org)
-
+<h5 align="right"
+    
 ![](https://komarev.com/ghpvc/?username=marikinonline4&color=000036&style=flat-square&label=沙)
 
 
