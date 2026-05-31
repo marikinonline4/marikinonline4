@@ -1,4 +1,5 @@
-<img width="420" height="150" alt="image" src="https://github.com/user-attachments/assets/804554eb-45a8-42a0-937a-dd05ab05d809" align="left" />
+<img width="450" height="205" alt="image" src="https://github.com/user-attachments/assets/c9dc93e3-df74-44d6-aabf-5abbe21e2685" align="left"/>
+
 
 <table>
 <br>
@@ -11,16 +12,10 @@ ${\textsf{\color{#01030A} Will}}$ ${\textsf{\color{#000929}you}}$ ${\textsf{\col
     </tr>
     </table>
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&cover_image=false&theme=Natemoo-re&show_offline=true&background_color=374a72&interchange=true&profanity=false&hide_remaster=false&bar_color=222d68&bar_color_cover=true">
-  </a>
-</p>
 
 
+<h5 align="right"
 
-
-<h5 align="center"
 
 ‎【  STATUS  】
 
