@@ -11,10 +11,11 @@ ${\textsf{\color{#01030A} Will}}$ ${\textsf{\color{#000929}you}}$ ${\textsf{\col
     </tr>
     </table>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&cover_image=false&theme=novatorem&show_offline=true&background_color=000045&interchange=true&profanity=false&bar_color=D18400&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&redirect=true)
-
-    
-
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mtba4g3zprlquksckopcwyrd4u&cover_image=false&theme=Natemoo-re&show_offline=true&background_color=374a72&interchange=true&profanity=false&hide_remaster=false&bar_color=222d68&bar_color_cover=true">
+  </a>
+</p>
 
 
 
