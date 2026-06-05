@@ -35,7 +35,7 @@ ${\textsf{\color{#E8F8FA} ⋆˚꩜｡}}$ [linktree](https://linktr.ee/gpoke)
 
 <h5 align="right"
     
-${\textsf{\color{#ACEAF2} ⋆‧°𓏲ּ𝄢}}$ [spamfollow](https://github.com/cozyfies)
+${\textsf{\color{#ACEAF2} ⋆‧°𓏲ּ𝄢}}$ [spamfollow](https://github.com/auery)
 
 <h5 align="right"
     
