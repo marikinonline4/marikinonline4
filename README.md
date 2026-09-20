@@ -1,10 +1,7 @@
-<img width="210" height="25" alt="image" src="https://github.com/user-attachments/assets/111289a7-7729-4739-978e-6bb5a91db0bc" />
+<img width="435" height="160" alt="image" src="https://github.com/user-attachments/assets/97e457c7-abdb-44fd-9a0d-02d2ec3ca7b8" />
 
 
 
-
-
-<img width="350" height="140" alt="image" src="https://github.com/user-attachments/assets/0bc507d9-cefe-4986-b4d2-f8d3cb140097" align="left" />
 
 
 
@@ -13,37 +10,35 @@
     <tr>
       <td>
         <br>
-${\textsf{\color{#537691} Why}}$ ${\textsf{\color{#5A85A6}don't}}$ ${\textsf{\color{#6691B3}I}}$ ${\textsf{\color{#64A1D1}say}}$ ${\textsf{\color{#68AADE}it}}$ ${\textsf{\color{#AED4F2}then}}$ 
+${\textsf{\color{#1c03fc} I'll}}$ ${\textsf{\color{#1504b5}make}}$ ${\textsf{\color{#0c026b}you}}$ ${\textsf{\color{#07013b}scream}}$ 
          <br>
       </td>
     </tr>
     </table>
 
-${\textsf{\color{#81C7FC} I}}$ ${\textsf{\color{#D1F0EB}want}}$ you ${\textsf{\color{#D1F0EB}all}}$ ${\textsf{\color{#81C7FC}the}}$ ${\textsf{\color{#81C7FC}time}}$ 
+${\textsf{\color{#4a010c} And}}$ ${\textsf{\color{#8a0116}I'll}}$ ${\textsf{\color{#a1021a}make}}$ ${\textsf{\color{#edcf09}you}}$ ${\textsf{\color{#cc0624}want}}$ ${\textsf{\color{#f50529}it}}$
 
 
     
-<h5 align="right"
 
-pfp creds : [@OrbitingOrbiter](https://ph.pinterest.com/OrbitingOrbiter/) on pinterest !
 
 
 <h5 align="right"
 
 
-${\textsf{\color{#E8F8FA} ⋆˚꩜｡}}$ [linktree](https://linktr.ee/gpoke)
+${\textsf{\color{#08125c} ⋆˚꩜｡}}$ [linktree](https://linktr.ee/gpoke)
 
 <h5 align="right"
     
-${\textsf{\color{#ACEAF2} ⋆‧°𓏲ּ𝄢}}$ [spamfollow](https://github.com/auery)
+${\textsf{\color{#f5ed07} ⋆‧°𓏲ּ𝄢}}$ [spamfollow](https://github.com/auery)
 
 <h5 align="right"
     
-${\textsf{\color{#66DEED} — ᨳଓ .}}$ [atabook](https://kinginyellow.atabook.org)
+${\textsf{\color{#f50756} — ᨳଓ .}}$ [atabook](https://kinginyellow.atabook.org)
 
 <h5 align="right"
     
-![](https://komarev.com/ghpvc/?username=marikinonline4&color=8AB4BD&style=flat-square&label=沙)
+![](https://komarev.com/ghpvc/?username=marikinonline4&color=030514&style=flat-square&label=沙)
 
 <table>
 
